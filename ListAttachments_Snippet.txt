@@ -1,0 +1,7 @@
+<script type="text/javascript" src="/Scripts/ListAttachments_2.3.js"></script>
+<script type="text/javascript">
+var argObj = {hideIdColumn:true,
+              clickToOpen:true,
+              clickMouseover:'Click to open',
+              oneClickOpenIfSingle:true};
+</script>
